@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Python
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Html and  CSS
+- 🌱 I’m currently learning Python, HTML and CSS
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me: Python
+- 📫 How to reach me: Discord or Mail
 
 <!---
 live2game/live2game is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
